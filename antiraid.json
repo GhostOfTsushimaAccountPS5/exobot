@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "maxJoins": 5,
+  "timeFrame": 10000
+}

@@ -1,0 +1,212 @@
+{
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 0
+    },
+    {
+      "name": "⟦💤⟧・Membre #Z",
+      "color": 16777215,
+      "permissions": [],
+      "position": 1
+    },
+    {
+      "name": "⟦💤⟧・Bot #Z",
+      "color": 65501,
+      "permissions": [],
+      "position": 2
+    },
+    {
+      "name": "⟦💤⟧・ExoBot #Z",
+      "color": 4718847,
+      "permissions": [],
+      "position": 3
+    },
+    {
+      "name": "⟦💤⟧・Admin #Z",
+      "color": 54783,
+      "permissions": [],
+      "position": 4
+    },
+    {
+      "name": "⟦💤⟧・Owner #Z",
+      "color": 26367,
+      "permissions": [],
+      "position": 5
+    }
+  ],
+  "channels": [
+    {
+      "name": "rules",
+      "type": 0,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐏𝐨𝐰𝐞𝐫𝐒𝐡𝐞𝐥𝐥",
+      "type": 0,
+      "position": 0,
+      "parent": "💤・Utile #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐀𝐢𝐝𝐞",
+      "type": 0,
+      "position": 0,
+      "parent": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z"
+    },
+    {
+      "name": "💤・#Z",
+      "type": 4,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐋𝐨𝐠𝐬",
+      "type": 0,
+      "position": 0,
+      "parent": "💤・#Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐓𝐢𝐜𝐤𝐞𝐭",
+      "type": 0,
+      "position": 0,
+      "parent": "💤・Support #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐃𝐢𝐬𝐜𝐮𝐭𝐞𝐫",
+      "type": 0,
+      "position": 0,
+      "parent": "💤・Espace #Z"
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐈𝐦𝐚𝐠𝐞",
+      "type": 0,
+      "position": 1,
+      "parent": "💤・Espace #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐏𝐲𝐭𝐡𝐨𝐧",
+      "type": 0,
+      "position": 1,
+      "parent": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐌𝐚𝐢𝐥-𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐢𝐫𝐞",
+      "type": 0,
+      "position": 1,
+      "parent": "💤・Utile #Z"
+    },
+    {
+      "name": "💤・Support #Z",
+      "type": 4,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐁𝐮𝐠-𝐄𝐱𝐨𝐁𝐨𝐭",
+      "type": 0,
+      "position": 1,
+      "parent": "💤・#Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭",
+      "type": 0,
+      "position": 2,
+      "parent": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z"
+    },
+    {
+      "name": "💤・Espace #Z",
+      "type": 4,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐬𝐬𝐞𝐮𝐫",
+      "type": 0,
+      "position": 2,
+      "parent": "💤・Utile #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐁𝐚𝐝𝐠𝐞",
+      "type": 0,
+      "position": 2,
+      "parent": "💤・#Z"
+    },
+    {
+      "name": "⟦💤⟧・",
+      "type": 0,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "💤・Utile #Z",
+      "type": 4,
+      "position": 3,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐂𝐒𝐒",
+      "type": 0,
+      "position": 3,
+      "parent": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐀𝐩𝐩𝐞𝐥-𝐑é𝐬𝐞𝐚𝐮𝐱",
+      "type": 0,
+      "position": 3,
+      "parent": "💤・Utile #Z"
+    },
+    {
+      "name": "⟦💤⟧・𝐄𝐱𝐨𝐁𝐨𝐭",
+      "type": 0,
+      "position": 3,
+      "parent": "💤・#Z"
+    },
+    {
+      "name": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z",
+      "type": 4,
+      "position": 4,
+      "parent": null
+    },
+    {
+      "name": "⟦💤⟧・𝐂",
+      "type": 0,
+      "position": 4,
+      "parent": "💤・𝐂𝐨𝐝𝐞 & 𝐏𝐚𝐫𝐭𝐚𝐠𝐞 #Z"
+    }
+  ]
+}

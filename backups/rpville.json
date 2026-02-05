@@ -1,0 +1,95 @@
+{
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 0
+    }
+  ],
+  "channels": [
+    {
+      "name": "⟦❓⟧・",
+      "type": 0,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "-----❓-----",
+      "type": 4,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "⟦❓⟧・",
+      "type": 0,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "-----❓-----",
+      "type": 4,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "⟦❓⟧・",
+      "type": 0,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "-----❓-----",
+      "type": 4,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "⟦❓⟧・",
+      "type": 0,
+      "position": 3,
+      "parent": null
+    },
+    {
+      "name": "-----❓-----",
+      "type": 4,
+      "position": 3,
+      "parent": null
+    },
+    {
+      "name": "⟦❓⟧・",
+      "type": 0,
+      "position": 4,
+      "parent": null
+    }
+  ]
+}

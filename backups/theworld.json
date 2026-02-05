@@ -1,0 +1,904 @@
+{
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 0
+    },
+    {
+      "name": "📱Téléphone",
+      "color": 2622521,
+      "permissions": [],
+      "position": 2
+    },
+    {
+      "name": "💻 PC",
+      "color": 4064774,
+      "permissions": [],
+      "position": 3
+    },
+    {
+      "name": "nouveau rôle",
+      "color": 0,
+      "permissions": [],
+      "position": 4
+    },
+    {
+      "name": "Negre",
+      "color": 5784347,
+      "permissions": [],
+      "position": 5
+    },
+    {
+      "name": "Pirate en mer",
+      "color": 3447003,
+      "permissions": [],
+      "position": 6
+    },
+    {
+      "name": "Niveau 5 🌿",
+      "color": 3066993,
+      "permissions": [],
+      "position": 7
+    },
+    {
+      "name": "Niveau 10 ☘️",
+      "color": 3066993,
+      "permissions": [],
+      "position": 8
+    },
+    {
+      "name": "Niveau 15 🍀",
+      "color": 3066993,
+      "permissions": [],
+      "position": 9
+    },
+    {
+      "name": "Niveau 20 🍃",
+      "color": 3066993,
+      "permissions": [],
+      "position": 10
+    },
+    {
+      "name": "Niveau 25 🏵️",
+      "color": 15105570,
+      "permissions": [],
+      "position": 11
+    },
+    {
+      "name": "Niveau 30 💮",
+      "color": 16751354,
+      "permissions": [],
+      "position": 12
+    },
+    {
+      "name": "Niveau 35 🌸",
+      "color": 16740598,
+      "permissions": [],
+      "position": 13
+    },
+    {
+      "name": "Niveau 40 🪷",
+      "color": 16752864,
+      "permissions": [],
+      "position": 14
+    },
+    {
+      "name": "Niveau 45 🌷",
+      "color": 16742100,
+      "permissions": [],
+      "position": 15
+    },
+    {
+      "name": "Niveau 50 🌺",
+      "color": 13583219,
+      "permissions": [],
+      "position": 16
+    },
+    {
+      "name": "Niveau 75 🌼",
+      "color": 16761856,
+      "permissions": [],
+      "position": 17
+    },
+    {
+      "name": "Niveau 100 🍁",
+      "color": 15158332,
+      "permissions": [],
+      "position": 18
+    },
+    {
+      "name": "Niveau 150 🔥",
+      "color": 16737280,
+      "permissions": [],
+      "position": 19
+    },
+    {
+      "name": "Petit loup 🐺",
+      "color": 3355443,
+      "permissions": [],
+      "position": 20
+    },
+    {
+      "name": "Mineur",
+      "color": 7707136,
+      "permissions": [],
+      "position": 21
+    },
+    {
+      "name": "Femme",
+      "color": 16711879,
+      "permissions": [],
+      "position": 22
+    },
+    {
+      "name": "Majeur",
+      "color": 15138560,
+      "permissions": [],
+      "position": 23
+    },
+    {
+      "name": "Homme",
+      "color": 3447003,
+      "permissions": [],
+      "position": 24
+    },
+    {
+      "name": "Perm |",
+      "color": 15215,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 25
+    },
+    {
+      "name": "Perm ||",
+      "color": 15215,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 26
+    },
+    {
+      "name": "Perm |||",
+      "color": 15215,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "Administrator",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 27
+    },
+    {
+      "name": "🧛・Vampires",
+      "color": 5439488,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "CreateGuildExpressions",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 28
+    },
+    {
+      "name": "E-girl",
+      "color": 16735702,
+      "permissions": [
+        "CreateInstantInvite",
+        "ViewChannel"
+      ],
+      "position": 29
+    },
+    {
+      "name": "Vip",
+      "color": 13927485,
+      "permissions": [
+        "CreateInstantInvite"
+      ],
+      "position": 30
+    },
+    {
+      "name": "Jo-Bro",
+      "color": 2155095,
+      "permissions": [
+        "CreateInstantInvite",
+        "ViewChannel",
+        "ChangeNickname"
+      ],
+      "position": 31
+    },
+    {
+      "name": "⭐・Kars",
+      "color": 15844367,
+      "permissions": [
+        "PrioritySpeaker",
+        "MentionEveryone"
+      ],
+      "position": 32
+    },
+    {
+      "name": "🤖・Bot",
+      "color": 612,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "Administrator",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 33
+    },
+    {
+      "name": "🍃・staff test",
+      "color": 3066993,
+      "permissions": [],
+      "position": 34
+    },
+    {
+      "name": "🌀・modérateur",
+      "color": 56319,
+      "permissions": [],
+      "position": 35
+    },
+    {
+      "name": "✨・administrateur",
+      "color": 15277667,
+      "permissions": [],
+      "position": 36
+    },
+    {
+      "name": "🤖 BOT",
+      "color": 16515299,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "Administrator",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 37
+    },
+    {
+      "name": "♾️・détenteur de Stand",
+      "color": 16711937,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "Administrator",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "position": 38
+    },
+    {
+      "name": "⌛・Diavolo",
+      "color": 8457922,
+      "permissions": [
+        "Administrator"
+      ],
+      "position": 39
+    },
+    {
+      "name": "💿・Pucci",
+      "color": 2639725,
+      "permissions": [
+        "Administrator"
+      ],
+      "position": 40
+    },
+    {
+      "name": "👑 ・Dio",
+      "color": 14077495,
+      "permissions": [
+        "Administrator"
+      ],
+      "position": 41
+    }
+  ],
+  "channels": [
+    {
+      "name": "Bureaux",
+      "type": 4,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "📕・rules",
+      "type": 0,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "╔🤝・partenariat",
+      "type": 0,
+      "position": 0,
+      "parent": "⌜🤝⌟・partenariat"
+    },
+    {
+      "name": "👑Dio",
+      "type": 2,
+      "position": 0,
+      "parent": "Bureaux"
+    },
+    {
+      "name": "╔🤓・Membres : 61",
+      "type": 2,
+      "position": 0,
+      "parent": "⌜📊⌟・stats du serveur"
+    },
+    {
+      "name": "╔⚡ • Flotte 1",
+      "type": 2,
+      "position": 0,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "╔🖼️・vos-dessin",
+      "type": 0,
+      "position": 0,
+      "parent": "⌜✏️⌟・vos création"
+    },
+    {
+      "name": "╔🌌・Afk",
+      "type": 2,
+      "position": 0,
+      "parent": "⌜🏕️⌟・Chill room"
+    },
+    {
+      "name": "╔🎟️・ticket",
+      "type": 0,
+      "position": 0,
+      "parent": "⌜📬⌟・Support"
+    },
+    {
+      "name": "╔✨・Créer votre salon",
+      "type": 2,
+      "position": 0,
+      "parent": "⌜🔒⌟・ vocal privé"
+    },
+    {
+      "name": "║📨・vos-idée",
+      "type": 2,
+      "position": 0,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "╔🌟・accueil",
+      "type": 0,
+      "position": 0,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "╔💭・chat",
+      "type": 0,
+      "position": 0,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "║📸・média",
+      "type": 0,
+      "position": 1,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "╚🤖・Bots : 8",
+      "type": 2,
+      "position": 1,
+      "parent": "⌜📊⌟・stats du serveur"
+    },
+    {
+      "name": "╚👮・recrutement-staff",
+      "type": 0,
+      "position": 1,
+      "parent": "⌜📬⌟・Support"
+    },
+    {
+      "name": "╚🎗️・notre-pub",
+      "type": 0,
+      "position": 1,
+      "parent": "⌜🤝⌟・partenariat"
+    },
+    {
+      "name": "║🤓・Flotte 2",
+      "type": 2,
+      "position": 1,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "╚❓・faq",
+      "type": 2,
+      "position": 1,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "⌜📊⌟・stats du serveur",
+      "type": 4,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "●ʟᴏɢꜱ📝",
+      "type": 0,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "║📣・annonce",
+      "type": 0,
+      "position": 1,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "‖🎵・vos-musique",
+      "type": 0,
+      "position": 1,
+      "parent": "⌜✏️⌟・vos création"
+    },
+    {
+      "name": "║🛬・arrivé",
+      "type": 0,
+      "position": 2,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "⌜📣⌟・information",
+      "type": 4,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "║🦧・Flotte 3",
+      "type": 2,
+      "position": 2,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "‖▶️・vos-chaîne",
+      "type": 0,
+      "position": 2,
+      "parent": "⌜✏️⌟・vos création"
+    },
+    {
+      "name": "║🤖・commande",
+      "type": 0,
+      "position": 2,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "position": 2,
+      "parent": null
+    },
+    {
+      "name": "╚🎥・vos-edit",
+      "type": 0,
+      "position": 3,
+      "parent": "⌜✏️⌟・vos création"
+    },
+    {
+      "name": "║🛫・départ",
+      "type": 0,
+      "position": 3,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "║💓・lovecall",
+      "type": 0,
+      "position": 3,
+      "parent": "⌜💭⌟・Communauté"
+    },
+    {
+      "name": "raidprotect-logs",
+      "type": 0,
+      "position": 3,
+      "parent": null
+    },
+    {
+      "name": "⌜💭⌟・Communauté",
+      "type": 4,
+      "position": 3,
+      "parent": null
+    },
+    {
+      "name": "║🌈・Flotte 4",
+      "type": 2,
+      "position": 3,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "║✨・Flotte 5",
+      "type": 2,
+      "position": 4,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "║💎・boost",
+      "type": 0,
+      "position": 4,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "raidprotect-logs",
+      "type": 0,
+      "position": 4,
+      "parent": null
+    },
+    {
+      "name": "⌜✏️⌟・vos création",
+      "type": 4,
+      "position": 4,
+      "parent": null
+    },
+    {
+      "name": "║🫀・Flotte 6",
+      "type": 2,
+      "position": 5,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "║📈・level",
+      "type": 0,
+      "position": 5,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "⌜🤝⌟・partenariat",
+      "type": 4,
+      "position": 5,
+      "parent": null
+    },
+    {
+      "name": "║👺・Flotte 7",
+      "type": 2,
+      "position": 6,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "║💰・boutique",
+      "type": 0,
+      "position": 6,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "⌜📬⌟・Support",
+      "type": 4,
+      "position": 6,
+      "parent": null
+    },
+    {
+      "name": "║🔥・Flotte 8",
+      "type": 2,
+      "position": 7,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "⌜🔊⌟・Vocal Publique",
+      "type": 4,
+      "position": 7,
+      "parent": null
+    },
+    {
+      "name": "║🎉・giveaway",
+      "type": 0,
+      "position": 7,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "╚🍃・staff-test",
+      "type": 0,
+      "position": 8,
+      "parent": "⌜📣⌟・information"
+    },
+    {
+      "name": "⌜🏕️⌟・Chill room",
+      "type": 4,
+      "position": 8,
+      "parent": null
+    },
+    {
+      "name": "║💧・Flotte 9",
+      "type": 2,
+      "position": 8,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "⌜🔒⌟・ vocal privé",
+      "type": 4,
+      "position": 9,
+      "parent": null
+    },
+    {
+      "name": "║🍄・Flotte 10",
+      "type": 2,
+      "position": 9,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    },
+    {
+      "name": "╚LES PROBLÈMES!!!!!!!! 😈",
+      "type": 2,
+      "position": 10,
+      "parent": "⌜🔊⌟・Vocal Publique"
+    }
+  ]
+}
